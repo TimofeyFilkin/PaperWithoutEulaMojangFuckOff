@@ -75,7 +75,7 @@
 +            }
 +            if (!eula.hasAgreedToEULA() && !eulaAgreed) {
 +                // Spigot end
-                 LOGGER.info("You do not need to agree to the EULA in order to run the server. Go to eula.txt for more info.");
+                 LOGGER.info("You do not need to agree to the EULA in order to run the server. Heck you mojang");
              }
  
 -            File file = new File(optionSet.valueOf(optionSpec9));
